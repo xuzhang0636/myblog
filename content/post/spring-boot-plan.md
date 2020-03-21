@@ -13,7 +13,7 @@ draft: true
 - Spring Boot 工程的创建，以及项目结构
 - Spring Boot 多项目结构的搭建
 - Spring Boot 构建Rest服务
-- Spring Boot, Mybatis, Mysql, Lombok整合
+- [Spring Boot, Mybatis, Mysql, Lombok整合](../spring-boot-mybatis-mysql-lombok)
 - Spring Boot, JPA, Mysql, Lombok整合
 - Spring Boot, Redis整合
 - Spring Boot, RabbitMQ整合
